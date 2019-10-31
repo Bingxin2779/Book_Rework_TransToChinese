@@ -1,5 +1,6 @@
 # Book_Rework_TransToChinese
 英文原版书《Rework》中文翻译项目
+
 **此项目为“翻译技术原理与实践”课程讨论题实验项目，模拟英文原版书翻译团队，目的为学习GitHub和Git在翻译项目管理中的用法，仅作学习用途**
 
 ## 当前版本
@@ -34,4 +35,9 @@ version1.0  2019/10/24更新
 2. 内容规范
 - [语言风格规范](https://github.com/Bingxin2779/Book_Rework_TransToChinese/blob/master/LanguageStyle.md)
 - [术语表](https://github.com/Bingxin2779/Book_Rework_TransToChinese/blob/master/Terminology.md)
+
+## 贡献者
+
+……
+……
 
